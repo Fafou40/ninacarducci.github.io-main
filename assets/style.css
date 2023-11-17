@@ -130,7 +130,7 @@ body {
 	font-family: 'Spectral', serif;
 }
 
-.auto-size-slide, .picture img, .img-fluid {
+.auto-size-slide, .picture img {
 	width: 100%;
 	height: auto;
 }
